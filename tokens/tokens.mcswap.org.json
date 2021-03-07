@@ -14,13 +14,13 @@
   ],
   "tokens": [
      {
-      "name": "McDonaldsCoin",
+      "name": "McDonaldsCoin on xDai",
       "address": "0xC577cDdABB7893cC2cA15eF4b5D5e5E13c3FeeD3",
       "symbol": "xMCDC",
       "decimals": 2,
       "chainId": 100,
       "logoURI": "https://raw.githubusercontent.com/birdieearlybird/mcdc_assets/main/mcdc_logo_200.png"
-    }
+    },
     {
       "name": "BigMac",
       "address": "0x7f7440C5098462f833E123B44B8A03E1d9785BAb",
