@@ -16,7 +16,7 @@
     {
       "name": "BigMac",
       "address": "0x7f7440C5098462f833E123B44B8A03E1d9785BAb",
-      "symbol": "BGMC",
+      "symbol": "MAC",
       "decimals": 18,
       "chainId": 100,
       "logoURI": "https://raw.githubusercontent.com/birdieearlybird/mcdc_assets/main/tokens/BGMC.png"
@@ -24,7 +24,7 @@
     {
       "name": "McFries",
       "address": "0xDF613aF6B44a31299E48131e9347F034347E2F00",
-      "symbol": "MCFR",
+      "symbol": "FRIES",
       "decimals": 18,
       "chainId": 100,
       "logoURI": "https://raw.githubusercontent.com/birdieearlybird/mcdc_assets/main/tokens/MCFR.png"
@@ -32,7 +32,7 @@
     {
       "name": "Fillet o' Fish",
       "address": "0xbcfB2B889F7bAa29Dd7A7B447b6C87Aca572F4f4",
-      "symbol": "FFSH",
+      "symbol": "FISH",
       "decimals": 18,
       "chainId": 100,
       "logoURI": "https://raw.githubusercontent.com/birdieearlybird/mcdc_assets/main/tokens/FFSH.png"
@@ -40,7 +40,7 @@
     {
       "name": "McChicken",
       "address": "0xc81c785653D97766b995D867CF91F56367742eAC",
-      "symbol": "CHKN",
+      "symbol": "CHICK",
       "decimals": 18,
       "chainId": 100,
       "logoURI": "https://raw.githubusercontent.com/birdieearlybird/mcdc_assets/main/tokens/CHKN.png"
@@ -48,7 +48,7 @@
     {
       "name": "Egg McMuffin",
       "address": "0x3a97704a1b25f08aa230ae53b352e2e72ef52843",
-      "symbol": "EMFN",
+      "symbol": "EGG",
       "decimals": 18,
       "chainId": 100,
       "logoURI": "https://raw.githubusercontent.com/birdieearlybird/mcdc_assets/main/tokens/EMFN.png"
@@ -56,7 +56,7 @@
     {
       "name": "McNuggets",
       "address": "0xD27E1ECC4748F42e052331BeA917D89bEB883fc3",
-      "symbol": "MCNG",
+      "symbol": "NUGG",
       "decimals": 18,
       "chainId": 100,
       "logoURI": "https://raw.githubusercontent.com/birdieearlybird/mcdc_assets/main/tokens/MCNG.png"
@@ -64,7 +64,7 @@
     {
       "name": "McRib",
       "address": "0x3581cc6A09DE85e9B91Ef93F2a5eF837706b84a5",
-      "symbol": "MCRB",
+      "symbol": "MCRIB",
       "decimals": 18,
       "chainId": 100,
       "logoURI": "https://raw.githubusercontent.com/birdieearlybird/mcdc_assets/main/tokens/MCRB.png"
@@ -72,7 +72,7 @@
     {
       "name": "McFlurry",
       "address": "0x4bc97997883c0397f556bd0f9da6fb71da22f9a2",
-      "symbol": "FLRY",
+      "symbol": "FLURY",
       "decimals": 18,
       "chainId": 100,
       "logoURI": "https://raw.githubusercontent.com/birdieearlybird/mcdc_assets/main/tokens/FLRY.png"
