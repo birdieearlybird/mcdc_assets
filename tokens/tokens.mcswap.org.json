@@ -1,0 +1,81 @@
+{
+  "name": "McDriveThru Default",
+  "timestamp": "2021-03-06T22:41:53.202Z",
+  "version": {
+    "major": 0,
+    "minor": 1,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "ipfs://Qma4TXHsoK3yVtEGCRVeezfVGzokPGLC49Hhyvd9Lf4x2j",
+  "keywords": [
+    "honeyswap",
+    "xdai"
+  ],
+  "tokens": [
+    {
+      "name": "BigMac",
+      "address": "0x7f7440C5098462f833E123B44B8A03E1d9785BAb",
+      "symbol": "BGMC",
+      "decimals": 18,
+      "chainId": 100,
+      "logoURI": "https://raw.githubusercontent.com/birdieearlybird/mcdc_assets/main/tokens/BGMC.png"
+    },
+    {
+      "name": "McFries",
+      "address": "0xDF613aF6B44a31299E48131e9347F034347E2F00",
+      "symbol": "MCFR",
+      "decimals": 18,
+      "chainId": 100,
+      "logoURI": "https://raw.githubusercontent.com/birdieearlybird/mcdc_assets/main/tokens/MCFR.png"
+    },
+    {
+      "name": "Fillet o' Fish",
+      "address": "0xbcfB2B889F7bAa29Dd7A7B447b6C87Aca572F4f4",
+      "symbol": "FFSH",
+      "decimals": 18,
+      "chainId": 100,
+      "logoURI": "https://raw.githubusercontent.com/birdieearlybird/mcdc_assets/main/tokens/FFSH.png"
+    },
+    {
+      "name": "McChicken",
+      "address": "0xc81c785653D97766b995D867CF91F56367742eAC",
+      "symbol": "CHKN",
+      "decimals": 18,
+      "chainId": 100,
+      "logoURI": "https://raw.githubusercontent.com/birdieearlybird/mcdc_assets/main/tokens/CHKN.png"
+    },
+    {
+      "name": "Egg McMuffin",
+      "address": "0x3a97704a1b25f08aa230ae53b352e2e72ef52843",
+      "symbol": "EMFN",
+      "decimals": 18,
+      "chainId": 100,
+      "logoURI": "https://raw.githubusercontent.com/birdieearlybird/mcdc_assets/main/tokens/EMFN.png"
+    },
+    {
+      "name": "McNuggets",
+      "address": "0xD27E1ECC4748F42e052331BeA917D89bEB883fc3",
+      "symbol": "MCNG",
+      "decimals": 18,
+      "chainId": 100,
+      "logoURI": "https://raw.githubusercontent.com/birdieearlybird/mcdc_assets/main/tokens/MCNG.png"
+    },
+    {
+      "name": "McRib",
+      "address": "0x3581cc6A09DE85e9B91Ef93F2a5eF837706b84a5",
+      "symbol": "MCRB",
+      "decimals": 18,
+      "chainId": 100,
+      "logoURI": "https://raw.githubusercontent.com/birdieearlybird/mcdc_assets/main/tokens/MCRB.png"
+    },
+    {
+      "name": "McFlurry",
+      "address": "0x4bc97997883c0397f556bd0f9da6fb71da22f9a2",
+      "symbol": "FLRY",
+      "decimals": 18,
+      "chainId": 100,
+      "logoURI": "https://raw.githubusercontent.com/birdieearlybird/mcdc_assets/main/tokens/FLRY.png"
+    }
+  ]
+}
