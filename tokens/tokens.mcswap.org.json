@@ -38,12 +38,12 @@
       "logoURI": "https://raw.githubusercontent.com/birdieearlybird/mcdc_assets/main/tokens/MCFR.png"
     },
     {
-      "name": "Fillet o' Fish",
-      "address": "0xbcfB2B889F7bAa29Dd7A7B447b6C87Aca572F4f4",
-      "symbol": "FISH",
+      "name": "McFlurry",
+      "address": "0x4bc97997883c0397f556bd0f9da6fb71da22f9a2",
+      "symbol": "FLURY",
       "decimals": 18,
       "chainId": 100,
-      "logoURI": "https://raw.githubusercontent.com/birdieearlybird/mcdc_assets/main/tokens/FFSH.png"
+      "logoURI": "https://raw.githubusercontent.com/birdieearlybird/mcdc_assets/main/tokens/FLRY.png"
     },
     {
       "name": "McChicken",
@@ -78,12 +78,12 @@
       "logoURI": "https://raw.githubusercontent.com/birdieearlybird/mcdc_assets/main/tokens/MCRB.png"
     },
     {
-      "name": "McFlurry",
-      "address": "0x4bc97997883c0397f556bd0f9da6fb71da22f9a2",
-      "symbol": "FLURY",
+      "name": "Fillet o' Fish",
+      "address": "0xbcfB2B889F7bAa29Dd7A7B447b6C87Aca572F4f4",
+      "symbol": "FISH",
       "decimals": 18,
       "chainId": 100,
-      "logoURI": "https://raw.githubusercontent.com/birdieearlybird/mcdc_assets/main/tokens/FLRY.png"
+      "logoURI": "https://raw.githubusercontent.com/birdieearlybird/mcdc_assets/main/tokens/FFSH.png"
     }
   ]
 }
