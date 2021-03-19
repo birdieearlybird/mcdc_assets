@@ -4,7 +4,7 @@
   "version": {
     "major": 0,
     "minor": 2,
-    "patch": 2
+    "patch": 3
   },
   "tags": {},
   "logoURI": "ipfs://Qma4TXHsoK3yVtEGCRVeezfVGzokPGLC49Hhyvd9Lf4x2j",
@@ -31,7 +31,7 @@
     },
     {
       "name": "McFries",
-      "address": "0xdf613af6b44a31299e48131e9347f034347e2f00",
+      "address": "0xDF613aF6B44a31299E48131e9347F034347E2F00",
       "symbol": "FRIES",
       "decimals": 18,
       "chainId": 100,
@@ -39,7 +39,7 @@
     },
     {
       "name": "McFlurry",
-      "address": "0xdf613af6b44a31299e48131e9347f034347e2f00",
+      "address": "0x4bc97997883c0397f556bd0f9da6fb71da22f9a2",
       "symbol": "FLURY",
       "decimals": 18,
       "chainId": 100,
@@ -47,7 +47,7 @@
     },
     {
       "name": "McChicken",
-      "address": "0xdf613af6b44a31299e48131e9347f034347e2f00",
+      "address": "0xc81c785653D97766b995D867CF91F56367742eAC",
       "symbol": "CHICK",
       "decimals": 18,
       "chainId": 100,
@@ -55,7 +55,7 @@
     },
     {
       "name": "Egg McMuffin",
-      "address": "0xdf613af6b44a31299e48131e9347f034347e2f00",
+      "address": "0x3a97704a1b25f08aa230ae53b352e2e72ef52843",
       "symbol": "EGG",
       "decimals": 18,
       "chainId": 100,
@@ -63,7 +63,7 @@
     },
     {
       "name": "McNuggets",
-      "address": "0xdf613af6b44a31299e48131e9347f034347e2f00",
+      "address": "0xD27E1ECC4748F42e052331BeA917D89bEB883fc3",
       "symbol": "NUGG",
       "decimals": 18,
       "chainId": 100,
@@ -71,7 +71,7 @@
     },
     {
       "name": "McRib",
-      "address": "0xdf613af6b44a31299e48131e9347f034347e2f00",
+      "address": "0x3581cc6A09DE85e9B91Ef93F2a5eF837706b84a5",
       "symbol": "MCRIB",
       "decimals": 18,
       "chainId": 100,
@@ -79,7 +79,7 @@
     },
     {
       "name": "Fillet o' Fish",
-      "address": "0xdf613af6b44a31299e48131e9347f034347e2f00",
+      "address": "0xbcfB2B889F7bAa29Dd7A7B447b6C87Aca572F4f4",
       "symbol": "FISH",
       "decimals": 18,
       "chainId": 100,
