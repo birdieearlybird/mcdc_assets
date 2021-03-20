@@ -39,7 +39,7 @@
     },
     {
       "name": "McFlurry",
-      "address": "0x4bc97997883c0397f556bd0f9da6fb71da22f9a2",
+      "address": "0x524b969793a64a602342d89bc2789d43a016b13a",
       "symbol": "FLURY",
       "decimals": 18,
       "chainId": 100,
@@ -47,7 +47,7 @@
     },
     {
       "name": "McChicken",
-      "address": "0xc81c785653D97766b995D867CF91F56367742eAC",
+      "address": "0x3a00e08544d589e19a8e7d97d0294331341cdbf6",
       "symbol": "CHICK",
       "decimals": 18,
       "chainId": 100,
@@ -63,7 +63,7 @@
     },
     {
       "name": "McNuggets",
-      "address": "0xD27E1ECC4748F42e052331BeA917D89bEB883fc3",
+      "address": "0x1a186e7268f3ed5adfea6b9e0655f70059941e11",
       "symbol": "NUGG",
       "decimals": 18,
       "chainId": 100,
@@ -71,7 +71,7 @@
     },
     {
       "name": "McRib",
-      "address": "0x3581cc6A09DE85e9B91Ef93F2a5eF837706b84a5",
+      "address": "0x2995d1317dcd4f0ab89f4ae60f3f020a4f17c7ce",
       "symbol": "MCRIB",
       "decimals": 18,
       "chainId": 100,
@@ -79,7 +79,7 @@
     },
     {
       "name": "Fillet o' Fish",
-      "address": "0xbcfB2B889F7bAa29Dd7A7B447b6C87Aca572F4f4",
+      "address": "0xfadc59d012ba3c110b08a15b7755a5cb7cbe77d7",
       "symbol": "FISH",
       "decimals": 18,
       "chainId": 100,
