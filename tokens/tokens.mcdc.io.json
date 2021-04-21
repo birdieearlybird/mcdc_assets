@@ -1,10 +1,10 @@
 {
-  "name": "McDriveThru Demo",
+  "name": "McDriveThru Default",
   "timestamp": "2021-03-06T22:41:53.202Z",
   "version": {
     "major": 0,
-    "minor": 2,
-    "patch": 4
+    "minor": 3,
+    "patch": 0
   },
   "tags": {},
   "logoURI": "ipfs://Qma4TXHsoK3yVtEGCRVeezfVGzokPGLC49Hhyvd9Lf4x2j",
@@ -22,12 +22,68 @@
       "logoURI": "https://raw.githubusercontent.com/birdieearlybird/mcdc_assets/main/mcdc_logo_200.png"
     },
     {
-      "name": "Wrapped Ether on xDai",
-      "address": "0x6A023CCd1ff6F2045C3309768eAd9E68F978f6e1",
-      "symbol": "WETH",
+      "name": "BigMac",
+      "address": "0x3676fEF20BE1b2ABFe3282F306e121948A98C95F",
+      "symbol": "MAC",
       "decimals": 18,
       "chainId": 100,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/birdieearlybird/mcdc_assets/main/tokens/BGMC.png"
+    },
+    {
+      "name": "McFries",
+      "address": "0xE5775AE884cE32A63c0651f026cD21AEDF7366BA",
+      "symbol": "FRIES",
+      "decimals": 18,
+      "chainId": 100,
+      "logoURI": "https://raw.githubusercontent.com/birdieearlybird/mcdc_assets/main/tokens/MCFR.png"
+    },
+    {
+      "name": "McFlurry",
+      "address": "0x0ba611Bf5f66419A9623D970De4Dc2117a99eEED",
+      "symbol": "FLURY",
+      "decimals": 18,
+      "chainId": 100,
+      "logoURI": "https://raw.githubusercontent.com/birdieearlybird/mcdc_assets/main/tokens/FLRY.png"
+    },
+    {
+      "name": "McChicken",
+      "address": "0x5D5D5BCe58187f6e5F63A8a22D33F1E41b89cB44",
+      "symbol": "CHICK",
+      "decimals": 18,
+      "chainId": 100,
+      "logoURI": "https://raw.githubusercontent.com/birdieearlybird/mcdc_assets/main/tokens/CHKN.png"
+    },
+    {
+      "name": "Egg McMuffin",
+      "address": "0x00e0be876DEC6562e0723dF07FB338D0e054c374",
+      "symbol": "EGG",
+      "decimals": 18,
+      "chainId": 100,
+      "logoURI": "https://raw.githubusercontent.com/birdieearlybird/mcdc_assets/main/tokens/EMFN.png"
+    },
+    {
+      "name": "McNuggets",
+      "address": "0xe2c1A78d402Be1b8213F7903A482edcE47078a46",
+      "symbol": "NUGG",
+      "decimals": 18,
+      "chainId": 100,
+      "logoURI": "https://raw.githubusercontent.com/birdieearlybird/mcdc_assets/main/tokens/MCNG.png"
+    },
+    {
+      "name": "McRib",
+      "address": "0x2995d1317dcd4f0ab89f4ae60f3f020a4f17c7ce",
+      "symbol": "MCRIB",
+      "decimals": 18,
+      "chainId": 100,
+      "logoURI": "https://raw.githubusercontent.com/birdieearlybird/mcdc_assets/main/tokens/MCRB.png"
+    },
+    {
+      "name": "Fillet o' Fish",
+      "address": "0xfadc59d012ba3c110b08a15b7755a5cb7cbe77d7",
+      "symbol": "FISH",
+      "decimals": 18,
+      "chainId": 100,
+      "logoURI": "https://raw.githubusercontent.com/birdieearlybird/mcdc_assets/main/tokens/FFSH.png"
     }
   ]
 }
