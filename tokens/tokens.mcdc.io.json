@@ -68,22 +68,6 @@
       "decimals": 18,
       "chainId": 100,
       "logoURI": "https://raw.githubusercontent.com/birdieearlybird/mcdc_assets/main/tokens/MCNG.png"
-    },
-    {
-      "name": "McRib",
-      "address": "0x2995d1317dcd4f0ab89f4ae60f3f020a4f17c7ce",
-      "symbol": "MCRIB",
-      "decimals": 18,
-      "chainId": 100,
-      "logoURI": "https://raw.githubusercontent.com/birdieearlybird/mcdc_assets/main/tokens/MCRB.png"
-    },
-    {
-      "name": "Fillet o' Fish",
-      "address": "0xfadc59d012ba3c110b08a15b7755a5cb7cbe77d7",
-      "symbol": "FISH",
-      "decimals": 18,
-      "chainId": 100,
-      "logoURI": "https://raw.githubusercontent.com/birdieearlybird/mcdc_assets/main/tokens/FFSH.png"
     }
   ]
 }
