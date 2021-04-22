@@ -4,7 +4,7 @@
   "version": {
     "major": 0,
     "minor": 3,
-    "patch": 4
+    "patch": 5
   },
   "tags": {},
   "logoURI": "ipfs://Qma4TXHsoK3yVtEGCRVeezfVGzokPGLC49Hhyvd9Lf4x2j",
@@ -75,7 +75,7 @@
       "symbol": "FISH",
       "decimals": 18,
       "chainId": 100,
-      "logoURI": "https://raw.githubusercontent.com/birdieearlybird/mcdc_assets/main/tokens/FISH.png"
+      "logoURI": "https://raw.githubusercontent.com/birdieearlybird/mcdc_assets/main/tokens/FFSH.png"
     },
     {
       "name": "McRib",
