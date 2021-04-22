@@ -4,7 +4,7 @@
   "version": {
     "major": 0,
     "minor": 3,
-    "patch": 2
+    "patch": 3
   },
   "tags": {},
   "logoURI": "ipfs://Qma4TXHsoK3yVtEGCRVeezfVGzokPGLC49Hhyvd9Lf4x2j",
@@ -68,6 +68,14 @@
       "decimals": 18,
       "chainId": 100,
       "logoURI": "https://raw.githubusercontent.com/birdieearlybird/mcdc_assets/main/tokens/EMFN.png"
+    },
+    {
+      "name": "McRib",
+      "address": "0xBaE88a6e193bf63Ac55bFc84E020171fd57527b8",
+      "symbol": "MCRB",
+      "decimals": 18,
+      "chainId": 100,
+      "logoURI": "https://raw.githubusercontent.com/birdieearlybird/mcdc_assets/main/tokens/MCRB.png"
     },
     {
       "name": "McNuggets",
