@@ -4,7 +4,7 @@
   "version": {
     "major": 0,
     "minor": 4,
-    "patch": 0
+    "patch": 1
   },
   "tags": {},
   "logoURI": "ipfs://Qma4TXHsoK3yVtEGCRVeezfVGzokPGLC49Hhyvd9Lf4x2j",
@@ -44,6 +44,14 @@
       "decimals": 18,
       "chainId": 100,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0Ae055097C6d159879521C384F1D2123D1f195e6/logo.png"
+    },
+    {
+        "name": "Agave",
+        "address": "0x3a97704a1b25f08aa230ae53b352e2e72ef52843",
+        "symbol": "AGVE",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/xdai/0x3a97704a1b25f08aa230ae53b352e2e72ef52843/logo.png"
     },
     {
       "name": "UniCrypt on xDai",
