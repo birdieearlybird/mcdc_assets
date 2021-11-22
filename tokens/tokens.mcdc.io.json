@@ -1,10 +1,10 @@
 {
   "name": "McDriveThru Default",
-  "timestamp": "2021-03-06T22:41:53.202Z",
+  "timestamp": "2021-11-21T22:41:53.202Z",
   "version": {
     "major": 0,
     "minor": 4,
-    "patch": 2
+    "patch": 3
   },
   "tags": {},
   "logoURI": "ipfs://Qma4TXHsoK3yVtEGCRVeezfVGzokPGLC49Hhyvd9Lf4x2j",
@@ -30,52 +30,68 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
     },
     {
-      "name": "Honey",
-      "address": "0x71850b7e9ee3f13ab46d67167341e4bdc905eef9",
-      "symbol": "HNY",
+      "name": "BigMac",
+      "address": "0x3676fEF20BE1b2ABFe3282F306e121948A98C95F",
+      "symbol": "MAC",
       "decimals": 18,
       "chainId": 100,
-      "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/xdai/0x71850b7E9Ee3f13Ab46d67167341E4bDc905Eef9/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/birdieearlybird/mcdc_assets/main/tokens/BGMC.png"
     },
     {
-      "name": "Stake Token on xDai",
-      "address": "0xb7D311E2Eb55F2f68a9440da38e7989210b9A05e",
-      "symbol": "STAKE",
+      "name": "McFries",
+      "address": "0xE5775AE884cE32A63c0651f026cD21AEDF7366BA",
+      "symbol": "FRIES",
       "decimals": 18,
       "chainId": 100,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0Ae055097C6d159879521C384F1D2123D1f195e6/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/birdieearlybird/mcdc_assets/main/tokens/MCFR.png"
     },
     {
-        "name": "Agave",
-        "address": "0x3a97704a1b25f08aa230ae53b352e2e72ef52843",
-        "symbol": "AGVE",
-        "decimals": 18,
-        "chainId": 100,
-        "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/xdai/0x3a97704a1b25f08aa230ae53b352e2e72ef52843/logo.png"
-    },
-    {
-        "name": "ChainLink Token on xDai",
-        "address": "0xE2e73A1c69ecF83F464EFCE6A5be353a37cA09b2",
-        "symbol": "LINK",
-        "decimals": 18,
-        "chainId": 100,
-        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x514910771AF9Ca656af840dff83E8264EcF986CA/logo.png"
-    },
-    {
-      "name": "UniCrypt on xDai",
-      "address": "0x0116e28B43A358162B96f70B4De14C98A4465f25",
-      "symbol": "UNCX",
+      "name": "McFlurry",
+      "address": "0x0ba611Bf5f66419A9623D970De4Dc2117a99eEED",
+      "symbol": "FLURY",
       "decimals": 18,
       "chainId": 100,
-      "logoURI": "https://etherscan.io/token/images/UniCrypt_32.png"
+      "logoURI": "https://raw.githubusercontent.com/birdieearlybird/mcdc_assets/main/tokens/FLRY.png"
     },
     {
-      "name": "Haus",
-      "address": "0xb0C5f3100A4d9d9532a4CfD68c55F1AE8da987Eb",
-      "symbol": "HAUS",
+      "name": "McChicken",
+      "address": "0x5D5D5BCe58187f6e5F63A8a22D33F1E41b89cB44",
+      "symbol": "CHICK",
       "decimals": 18,
       "chainId": 100,
-      "logoURI": "https://assets.coingecko.com/coins/images/14551/small/jN3kkqke_400x400.png"
+      "logoURI": "https://raw.githubusercontent.com/birdieearlybird/mcdc_assets/main/tokens/CHKN.png"
+    },
+    {
+      "name": "Egg McMuffin",
+      "address": "0x00e0be876DEC6562e0723dF07FB338D0e054c374",
+      "symbol": "EGG",
+      "decimals": 18,
+      "chainId": 100,
+      "logoURI": "https://raw.githubusercontent.com/birdieearlybird/mcdc_assets/main/tokens/EMFN.png"
+    },
+    {
+      "name": "Filet o' Fish",
+      "address": "0x02CFEF0Ea7f190E82f6fcfD3dd27CD17f5fd0AdF",
+      "symbol": "FISH",
+      "decimals": 18,
+      "chainId": 100,
+      "logoURI": "https://raw.githubusercontent.com/birdieearlybird/mcdc_assets/main/tokens/FFSH.png"
+    },
+    {
+      "name": "McRib",
+      "address": "0xBaE88a6e193bf63Ac55bFc84E020171fd57527b8",
+      "symbol": "MCRB",
+      "decimals": 18,
+      "chainId": 100,
+      "logoURI": "https://raw.githubusercontent.com/birdieearlybird/mcdc_assets/main/tokens/MCRB.png"
+    },
+    {
+      "name": "McNuggets",
+      "address": "0xe2c1A78d402Be1b8213F7903A482edcE47078a46",
+      "symbol": "NUGG",
+      "decimals": 18,
+      "chainId": 100,
+      "logoURI": "https://raw.githubusercontent.com/birdieearlybird/mcdc_assets/main/tokens/MCNG.png"
     }
   ]
 }
